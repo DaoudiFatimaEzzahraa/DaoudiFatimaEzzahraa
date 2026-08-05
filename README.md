@@ -5,4 +5,4 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DaoudiFatimaEzzahraa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaoudiFatimaEzzahraa&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,react,tailwind,laravel,mysql,docker,tensorflow,pytorch,git&theme=dark" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DaoudiFatimaEzzahraa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaoudiFatimaEzzahraa&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/> </p> <p align="center"> </p>
