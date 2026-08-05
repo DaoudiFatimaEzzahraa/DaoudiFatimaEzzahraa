@@ -561,11 +561,11 @@ height="100%">
 
     <!-- ================= MAIN FEMALE DEVELOPER CHARACTER ================= -->
     <g id="character" transform="translate(730, 260)">
-      <!-- Slight Typing Motion Animation -->
-      <animateTransform attributeName="transform" type="translate" values="730,260; 730,258.5; 730,260" dur="2s" repeatCount="indefinite"/>
+      <!-- Posture plus naturelle (mouvement fluide et léger) -->
+      <animateTransform attributeName="transform" type="translate" values="730,260; 730,257; 730,260" dur="2.5s" repeatCount="indefinite"/>
 
-      <!-- Hoodie Body (Back View) -->
-      <path d="M 20,70 Q 70,50 120,70 L 130,140 L 10,140 Z" fill="#0d1220" stroke="#151b2d" stroke-width="2"/>
+      <!-- Silhouette plus féminine (taille légèrement cintrée) -->
+      <path d="M 28,70 Q 48,55 70,75 Q 92,55 112,70 L 120,140 L 20,140 Z" fill="#0d1220" stroke="#151b2d" stroke-width="2"/>
       
       <!-- Logo Emblem on Back of Hoodie -->
       <g transform="translate(53, 78) scale(0.5)" filter="url(#glowSoft)">
@@ -573,23 +573,26 @@ height="100%">
       </g>
 
       <!-- Hoodie Folds Details -->
-      <path d="M 35,85 Q 50,110 45,140" fill="none" stroke="#151b2d" stroke-width="2"/>
-      <path d="M 105,85 Q 90,110 95,140" fill="none" stroke="#151b2d" stroke-width="2"/>
+      <path d="M 40,85 Q 52,110 48,140" fill="none" stroke="#151b2d" stroke-width="2"/>
+      <path d="M 100,85 Q 88,110 92,140" fill="none" stroke="#151b2d" stroke-width="2"/>
 
       <!-- Shoulders & Arms extending to keyboard -->
-      <path d="M 15,80 L -10,120 L 10,135 L 30,95" fill="#0d1220"/>
-      <path d="M 125,80 L 150,120 L 130,135 L 110,95" fill="#0d1220"/>
+      <path d="M 22,80 L -5,120 L 12,135 L 32,95" fill="#0d1220"/>
+      <path d="M 118,80 L 145,120 L 128,135 L 108,95" fill="#0d1220"/>
 
-      <!-- Head & Hair (Dark Pixel Style) -->
-      <path d="M 45,25 Q 70,10 95,25 L 100,55 Q 70,65 40,55 Z" fill="#050714"/>
-      <!-- Hair Highlights (Purple/Cyan Neon Refraction) -->
-      <path d="M 42,30 Q 35,50 38,70" fill="none" stroke="#6C63FF" stroke-width="2"/>
-      <path d="M 98,30 Q 105,50 102,70" fill="none" stroke="#00E5FF" stroke-width="2"/>
+      <!-- Head & Cheveux un peu plus longs -->
+      <path d="M 42,22 Q 70,8 98,22 L 106,78 Q 70,88 34,78 Z" fill="#050714"/>
+      <!-- Mèches de cheveux plus longues descendant sur les épaules -->
+      <path d="M 35,50 Q 24,75 28,105" fill="none" stroke="#6C63FF" stroke-width="2.5" filter="url(#glowSoft)"/>
+      <path d="M 105,50 Q 116,75 112,105" fill="none" stroke="#00E5FF" stroke-width="2.5" filter="url(#glowSoft)"/>
+      
+      <!-- Écran éclairant légèrement (reflets néon cyan sur les cheveux et l'épaule) -->
+      <path d="M 106,40 Q 112,55 108,80" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.7" filter="url(#glowCyan)"/>
 
       <!-- RGB Headphones -->
-      <g transform="translate(32, 20)">
+      <g transform="translate(32, 18)">
         <!-- Band -->
-        <path d="M 10,15 Q 38,-5 66,15" fill="none" stroke="#1c2541" stroke-width="5"/>
+        <path d="M 10,15 Q 38,-3 66,15" fill="none" stroke="#1c2541" stroke-width="5"/>
         <!-- Left Ear Cup + Glow LED -->
         <rect x="2" y="12" width="12" height="22" rx="4" fill="#090d18" stroke="#00E5FF" stroke-width="1.5"/>
         <rect x="5" y="16" width="6" height="14" rx="2" fill="#00E5FF" filter="url(#glowCyan)">
@@ -602,7 +605,6 @@ height="100%">
         </rect>
       </g>
     </g>
-  </g>
 
   <!-- ================= 6. TOP RIGHT HUD STATUS PANEL ================= -->
   <g id="statusPanel" transform="translate(1260, 25)">
