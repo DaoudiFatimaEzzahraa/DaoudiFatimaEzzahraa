@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="100%" height="100%">
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+viewBox="0 0 1600 500"
+width="100%"
+height="100%">
   <defs>
     <!-- COLOR GRADIENTS -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -120,28 +125,15 @@
       <polygon points="12,14 4,35 28,35" fill="url(#holoBeam)" opacity="0.5"/>
     </g>
 
-    <!-- Logo Mark Emblem (Mise à jour avec "FED") -->
+    <!-- Logo Mark Emblem -->
     <g id="fedEmblem">
-      <!-- Background Octagon -->
       <path d="M 0,16 L 16,0 L 48,0 L 64,16 L 64,48 L 48,64 L 16,64 L 0,48 Z" fill="#090d18" stroke="#00E5FF" stroke-width="3"/>
-      
-      <!-- F (Violet) -->
-      <path d="M 11,20 L 22,20 L 22,25 L 16,25 L 16,30 L 20,30 L 20,34 L 16,34 L 16,44 L 11,44 Z" fill="#6C63FF"/>
-      
-      <!-- E (Rose) -->
-      <path d="M 26,20 L 37,20 L 37,25 L 31,25 L 31,30 L 35,30 L 35,34 L 31,34 L 31,39 L 37,39 L 37,44 L 26,44 Z" fill="#FF007F"/>
-      
-      <!-- D (Cyan) -->
-      <path d="M 41,20 L 49,20 L 53,25 L 53,39 L 49,44 L 41,44 Z M 46,25 L 46,39 L 49,39 L 49,25 Z" fill="#00E5FF"/>
-
-      <!-- Carrés dans les coins (identiques à l'image) -->
-      <rect x="10" y="10" width="4" height="4" fill="#FF007F"/>
-      <rect x="50" y="10" width="4" height="4" fill="#00E5FF"/>
-      <rect x="50" y="50" width="4" height="4" fill="#6C63FF"/>
-      <rect x="10" y="50" width="4" height="4" fill="#B388FF"/>
-      
-      <!-- Point rose sur le bord droit -->
-      <circle cx="58" cy="32" r="2.5" fill="#FF007F"/>
+      <path d="M 12,20 L 28,20 L 28,28 L 20,28 L 20,36 L 28,36 L 28,44 L 12,44 Z" fill="#6C63FF"/>
+      <path d="M 32,20 L 48,20 L 52,28 L 52,36 L 48,44 L 32,44 Z M 40,28 L 44,28 L 44,36 L 40,36 Z" fill="#00E5FF"/>
+      <rect x="8" y="8" width="4" height="4" fill="#FF007F"/>
+      <rect x="52" y="8" width="4" height="4" fill="#00E5FF"/>
+      <rect x="52" y="52" width="4" height="4" fill="#6C63FF"/>
+      <rect x="8" y="52" width="4" height="4" fill="#B388FF"/>
     </g>
   </defs>
 
