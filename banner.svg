@@ -605,7 +605,6 @@ height="100%">
         </rect>
       </g>
     </g>
-
   <!-- ================= 6. TOP RIGHT HUD STATUS PANEL ================= -->
   <g id="statusPanel" transform="translate(1260, 25)">
     <!-- Cyberpunk Border Box -->
