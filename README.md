@@ -1,4 +1,5 @@
-![Bannière](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Daoudi%20Fatima%20Ezzahraa&fontSize=50&animation=fadeIn&fontAlignY=40)
+![Bannière](https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:7C3AED&height=250&text=Daoudi%20Fatima%20Ezzahraa&fontSize=45&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20)
+
 <!--
 **DaoudiFatimaEzzahraa/DaoudiFatimaEzzahraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
