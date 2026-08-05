@@ -135,7 +135,6 @@ height="100%">
       <rect x="52" y="52" width="4" height="4" fill="#6C63FF"/>
       <rect x="8" y="52" width="4" height="4" fill="#B388FF"/>
     </g>
-  </defs>
 
   <!-- ================= 1. BACKGROUND SKY & ENVIRONMENT ================= -->
   <rect width="1600" height="500" fill="url(#bgGrad)"/>
