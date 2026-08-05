@@ -1,4 +1,5 @@
-![Bannière](https://capsule-render.vercel.app/api?type=rect&color=0:E8E2E2,100:D4145A&height=200&text=Daoudi%20Fatima%20Ezzahraa&fontSize=40&animation=fadeIn&fontAlignY=55&desc=Passionn%C3%A9e%20par%20le%20code&descAlignY=70)
+
+<h1 align="center">Salut, moi c'est FED 👋</h1> <h3 align="center">Étudiante en Master IA/ML/DL — je construis des systèmes intelligents, du prototype à la prod</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Master+SIIA+%40+FPK+%E2%80%94+Universit%C3%A9+Sultan+Moulay+Slimane;IA+%2F+Machine+Learning+%2F+Deep+Learning;GenAI+%C3%97+SEO+%C3%97+SaaS;Bas%C3%A9e+%C3%A0+Marrakech%2C+Maroc" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Master-SIIA-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20DL-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Based%20in-Marrakech%2C%20Maroc-6C63FF?style=flat-square" /> </p>
 <!--
 **DaoudiFatimaEzzahraa/DaoudiFatimaEzzahraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
